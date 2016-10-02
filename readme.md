@@ -41,7 +41,6 @@ Bonus exercises:
 
 When you are ready to get started, download the Jupyter notebook here: [Starter Code](./code/starter-code/Regularization-Lab-Starter.ipynb)
 
-> [Solution Code](./code/solution-code/Regularization-Lab-Solution.ipynb)
 
 #### Deliverable
 
